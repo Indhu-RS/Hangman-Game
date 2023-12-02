@@ -1,1 +1,1 @@
-Hangman Game with Gui
+Hangman Game built using tkinter module in python
